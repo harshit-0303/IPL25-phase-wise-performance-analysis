@@ -67,6 +67,7 @@ A bar chart representing:
 <p align="center">
   <img src="https://ik.imagekit.io/vtwmik0pw/newplot%20(2).png" width="800">
 </p>
+
 ---
 
 ### 3️⃣ Phase Pressure Heatmap  
@@ -84,6 +85,7 @@ An interactive heatmap where:
 <p align="center">
   <img src="https://ik.imagekit.io/vtwmik0pw/newplot%20(3).png" width="800">
 </p>
+
 ---
 
 ### 4️⃣ Average Score Trajectory with Wickets Fallen  
@@ -100,6 +102,7 @@ A line chart displaying:
 <p align="center">
   <img src="https://ik.imagekit.io/vtwmik0pw/newplot%20(4).png" width="800">
 </p>
+
 ---
 
 ## 🔍 Key Takeaways
