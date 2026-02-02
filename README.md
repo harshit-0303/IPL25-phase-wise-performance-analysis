@@ -35,11 +35,10 @@ Each visualization is followed by **concise key insights** to translate numbers 
 
 ## 📈 Visualizations & Analysis
 
-### 1️⃣ Phase-wise Runs vs Wickets Comparison  
+### 1️⃣ Phase-wise Batting team stats   
 A comparative visualization showing:
 - Runs scored
-- Wickets lost / taken  
-by each team across all three phases.
+- Wickets lost by each team across all three phases.
 
 **Key Insights Provided:**
 - Identifies aggressive vs conservative team strategies  
@@ -54,7 +53,7 @@ by each team across all three phases.
 
 ---
 
-### 2️⃣ Phase-wise Wickets Taken (Bar Plot)  
+### 2️⃣ Phase-wise Wickets Taken   
 A bar chart representing:
 - Total wickets taken by each team  
 - Separated by Powerplay, Middle Overs, and Death Overs  
@@ -63,6 +62,11 @@ A bar chart representing:
 - Evaluates bowling effectiveness per phase  
 - Highlights teams that control or lose momentum with the ball  
 
+<p align="center"><b>Phase-wise Wickets Taken</b></p>
+
+<p align="center">
+  <img src="https://ik.imagekit.io/vtwmik0pw/newplot%20(2).png" width="800">
+</p>
 ---
 
 ### 3️⃣ Phase Pressure Heatmap  
@@ -75,6 +79,11 @@ An interactive heatmap where:
 - Shows scoring behavior under different pressure conditions  
 - Highlights overs where teams accelerate or struggle  
 
+<p align="center"><b>Phase-wsie pressure map</b></p>
+
+<p align="center">
+  <img src="https://ik.imagekit.io/vtwmik0pw/newplot%20(3).png" width="800">
+</p>
 ---
 
 ### 4️⃣ Average Score Trajectory with Wickets Fallen  
@@ -86,6 +95,11 @@ A line chart displaying:
 - Visualizes scoring momentum throughout the innings  
 - Shows the impact of wicket loss on run progression  
 
+<p align="center"><b>Avg score trajectory with wicket events</b></p>
+
+<p align="center">
+  <img src="https://ik.imagekit.io/vtwmik0pw/newplot%20(4).png" width="800">
+</p>
 ---
 
 ## 🔍 Key Takeaways
@@ -97,8 +111,4 @@ A line chart displaying:
 
 ---
 
-## 🚀 How to Run the Project
 
-1. Clone the repository  
-   ```bash
-   git clone <repository-url>
