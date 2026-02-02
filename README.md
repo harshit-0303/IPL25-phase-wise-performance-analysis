@@ -43,7 +43,14 @@ by each team across all three phases.
 
 **Key Insights Provided:**
 - Identifies aggressive vs conservative team strategies  
-- Highlights phase-specific strengths and weaknesses  
+- Highlights phase-specific strengths and weaknesses
+
+<p align="center"><b>Phase-wise Team Stats</b></p>
+
+<p align="center">
+  <img src="https://ik.imagekit.io/vtwmik0pw/newplot%20(1).png" width="800">
+</p>
+
 
 ---
 
